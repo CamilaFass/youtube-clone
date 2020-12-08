@@ -29,3 +29,8 @@
   font-weight: bolder;
   color: rgb(84, 157, 211);
 }
+
+.videoRow_subs {
+  background-color: lightgray;
+  padding: 2px;
+}
