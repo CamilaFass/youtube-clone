@@ -1,3 +1,20 @@
+# Youtube Clone
+
+Simple project to practice React, youtube website clone without yet using its API.
+
+## Built With
+
+- React
+- create-react-app
+- material-ui
+- Flexbox
+- ES7 snippets (VS Code)
+- Firebase
+- B.E.M. naming convention
+- react-router-dom
+
+Based on <a href="https://www.youtube.com/watch?v=NT299zIk2JY&t=6620s">THIS</a> video from <a href="https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ">Clever Programmer</a> on Youtube.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
